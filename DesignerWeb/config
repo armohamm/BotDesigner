@@ -1,0 +1,4 @@
+name                         : Bot Designer
+
+// Packages settings
+package#flow       (Object)  : { url: '/' }
